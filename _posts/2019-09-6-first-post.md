@@ -1,1 +1,1 @@
-Test
+This week I learned to install a container. I had to add my credentials to log into CSUN servers using SSH and finally was able to start my Blog 0.
